@@ -1,10 +1,5 @@
 const CONFIG = {
     titleWeb: "hello cậu ",
-    introTitle: 'bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'bạn có thấy letran dễ thương hong',
     btnYes: 'cóoooo <33',
